@@ -30,7 +30,7 @@ Before running the code, ensure you have the following:
 
 ## Usage
 
-1. **Run the Script**: Execute the Python script `document_processing.py` to start the document processing workflow.
+1. **Run the Script**: Execute the Python script `main.py` to start the document processing workflow.
 
    ```bash
    python document_processing.py
